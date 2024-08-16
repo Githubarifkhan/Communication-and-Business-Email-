@@ -1,6 +1,7 @@
 # Communication-and-Business-Email-
 
 Here are six elements every business email should include: 
+
 A clear subject line
 
 An appropriate greeting
